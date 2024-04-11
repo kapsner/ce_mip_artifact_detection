@@ -1,0 +1,17 @@
+/*
+/*/*
+
+__pycache__
+/experiments
+*.csv
+*.png
+*.jpg
+*.jpeg
+
+!/src
+
+!*.py
+!.gitignore
+!README.md
+!*.sh
+!requirements.txt
